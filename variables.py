@@ -26,6 +26,3 @@ d = d - 4 # Subtraction
 # Printing values. 
 print(a, b, c, d)
 
-# Assigning multiple values to multiple variables. 
-x, y, z = (1, 2.5, 4.4)
-
