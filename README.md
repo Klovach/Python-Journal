@@ -11,9 +11,9 @@ A comprehensive study journal tailored specifically for Python code snippets. Th
 # Installation
 For personal use, simply clone this repository and make sure you have the necessary dependencies installed.
 An example of how to achieve this is displayed below.
-```$ git clone https://github.com/klovach/Python-Journal.git
-$ cd project
-$ npm install```
+`$ git clone https://github.com/klovach/Python-Journal.git
+`$ cd project
+`$ npm install
 
 # Acknowledgements 
 Any acknowledgements will be documented below as the journal is filled. At present, there are no notable acknowledgements.  
