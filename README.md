@@ -16,6 +16,10 @@ $ git clone https://github.com/klovach/Python-Journal.git
 $ cd project
 $ npm install
 ```
+An example of how to achieve with this Windows Powershell is displayed below.
+```
+git clone https://github.com/klovach/Python-Journal.git
+```
 
 # Acknowledgements 
 Any acknowledgements will be documented below as the journal is filled. At present, there are no notable acknowledgements.  
