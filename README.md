@@ -19,6 +19,7 @@ $ npm install
 An example of how to achieve with this Windows Powershell is displayed below.
 ```
 git clone https://github.com/klovach/Python-Journal.git
+cd .\Python-Journal\
 ```
 
 # Acknowledgements 
