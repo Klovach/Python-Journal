@@ -1,0 +1,39 @@
+'''
+Ranges:
+A range is a sequence of numbers. The range function is used to generate a sequence of numbers.
+By default, a range starts from 0, increments by 1 and stops before the number that is specified.
+In the example below, the range function generates a sequence of numbers from 0 to 9.
+Like arrays, the counting starts at 0. 
+'''
+
+'''
+One Argument:
+Generate a list of integers and output the result as a list. 
+'''
+numbers = list(range(10))
+print(numbers)
+
+'''
+Two Arguments:
+If a range is called with one argument, it produces a sequence of numbers from 0 to that number.
+If, however, the range is called with two arguments it produces a sequence of numbers from the first number to the second number.
+The following code will output a sequence of numbers from 5 to 9.
+'''
+numbers = list(range(5, 10))
+print(numbers)
+
+'''
+# Three Arguments 
+# If a range is called with three arguments, it produces a sequence of numbers from the first number to the second number.
+# The third argument is the step. The step is the amount by which the sequence is incremented. 
+'''
+numbers = list(range(2, 20, 2))
+print(numbers)
+
+'''
+Going Backwards:
+By default, the range function increments by 1. However, the step can be negative.
+This will output the numbers 10, 9, 8, 7, 6, 5, 4, 3, 2, 1.
+numbers = list(range(10, 0, -1))
+'''
+print(numbers)
